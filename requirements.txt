@@ -1,1 +1,6 @@
-pip install opencv-python cvzone mediapipe numpy pycaw comtypes
+opencv-python
+cvzone
+mediapipe
+numpy
+pycaw
+comtypes
